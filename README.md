@@ -105,7 +105,7 @@ a experiência das usuárias não fossem afetadas e permanecessem com as mesmas 
 ## 5. Interface 📽️
 A interface levou em conta todas as histórias de usuários desenvolvidas bem como a fidelidade ao protótipo criado.
 <div align="center">
-    <img alt="tela principal da aplicação" width="400" src="https://user-images.githubusercontent.com/30864314/228066451-a126c095-673e-4278-913a-282b6fa37e55.png"/><br>
+    <img alt="tela principal da aplicação" width="400" src="https://user-images.githubusercontent.com/30864314/228366430-1dfda73a-9d4a-4aa2-adc9-75915fa509ab.png"/><br>
     Tela 1: Tela principal da aplicação desenvolvida.
 </div>
 
